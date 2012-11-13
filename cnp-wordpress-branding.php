@@ -7,6 +7,7 @@ Plugin URI: http://antoniocampos.no-ip.com/2009/02/26/wordpress-login-form-image
 Description: Change a couple Wordpress logos to CNP logos
 Author: Taylor Gorman
 Author URI: http://clarknikdelpowell.com
+Version: 2.0
 
 This plugin is a modified version of Antonio Campos' (http://antoniocampos.no-ip.com)
 WP Custom Login Logo plugin (http://antoniocampos.no-ip.com/2009/02/26/wordpress-login-form-image/).
