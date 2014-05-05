@@ -31,7 +31,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 // change logo on login page
-function loginCSS() { echo "<style type='text/css'>.login h1 a {background-image: url(".WP_PLUGIN_URL."/cnp-wordpress-branding/login.png); background-size:176px 61px;}</style>".PHP_EOL; }
+function loginCSS() { echo "<style type='text/css'>.login h1 a {background-image: url(".WP_PLUGIN_URL."/cnp-wordpress-branding/login.png); background-size:176px 61px; width:auto;}</style>".PHP_EOL; }
 add_action('login_head', 'loginCSS');
 // change new logo's url to CNP
 function changeloginURL() { return "http://clarknikdelpowell.com"; }
